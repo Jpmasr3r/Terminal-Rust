@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es2024",
+        "module": "esnext",
+        "outDir": "./app/public/dist",
+        "strict": true,
+        "esModuleInterop": true
+    },
+    "include": [
+        "./app/src"
+    ],
+}

@@ -1,0 +1,10 @@
+app/public/dist
+.vscode
+node_modules
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+dockerignore
+biome.json 
+package-lock.json
